@@ -326,3 +326,6 @@ Inclui métodos como ocultação, hash ou mascaramento, que dificultam rastrear 
 
 - **Dados Internos:** Obtidos de diferentes departamentos internos.  
 - **Dados Externos:** Disponíveis por meio de iniciativas de dados abertos, como o portal Data.gov nos EUA, que promove transparência e inovação.  
+
+![image](https://github.com/user-attachments/assets/d4d18938-1295-46d0-86f3-aecb0c98b719)
+
