@@ -327,5 +327,48 @@ Inclui métodos como ocultação, hash ou mascaramento, que dificultam rastrear 
 - **Dados Internos:** Obtidos de diferentes departamentos internos.  
 - **Dados Externos:** Disponíveis por meio de iniciativas de dados abertos, como o portal Data.gov nos EUA, que promove transparência e inovação.  
 
+# QUANDO ENCONTRAR UM PROBLEMA COM SEUS DADOS
+
+## Problema de dados 1: não há dados  
+**Soluções possíveis:**
+
+**Exemplos de soluções na vida real:**
+
+- **Colete os dados em uma escala pequena** para realizar uma análise preliminar e, em seguida, solicite mais tempo para concluir a análise depois de coletar mais dados.  
+  Exemplo: Se estiver pesquisando os funcionários sobre o que eles acham de um novo plano de desempenho e bônus, use uma amostra para uma análise preliminar. Em seguida, solicite mais três semanas para coletar os dados de todos os funcionários.
+  
+- **Se não houver tempo para coletar dados, faça a análise usando dados proxy de outros conjuntos de dados.**  
+  Exemplo: Se estiver analisando os tempos de pico de viagem dos passageiros, mas não tiver os dados de uma determinada cidade, use os dados de outra cidade com tamanho e demografia semelhantes.
+
+---
+
+## Problema de dados 2: poucos dados  
+**Soluções possíveis:**
+
+**Exemplos de soluções na vida real:**
+
+- **Faça a análise usando dados proxy junto com os dados reais.**  
+  Exemplo: Se estiver analisando tendências de proprietários de golden retrievers, aumente o conjunto de dados incluindo os dados de proprietários de labradores.
+
+- **Alinhe sua análise com os dados que já possui.**  
+  Exemplo: Se faltarem dados sobre pessoas de 18 a 24 anos, faça a análise, mas observe a seguinte limitação em seu relatório: "Esta conclusão se aplica somente a adultos com 25 anos ou mais."
+
+---
+
+## Problema de dados 3: dados incorretos (incluindo dados com erros)  
+**Soluções possíveis:**
+
+**Exemplos de soluções na vida real:**
+
+- **Se você tiver os dados errados porque os requisitos foram mal compreendidos, comunique-os novamente.**  
+  Exemplo: Se precisar dos dados de eleitores do sexo feminino e tiver recebido os dados de eleitores do sexo masculino, reafirme suas necessidades.
+
+- **Identifique os erros nos dados e, se possível, corrija-os na fonte, procurando um padrão nos erros.**  
+  Exemplo: Se os seus dados estiverem em uma planilha e houver uma instrução condicional ou booleana que esteja causando erros nos cálculos, mude a instrução condicional em vez de apenas corrigir os valores calculados.
+
+- **Se não for possível corrigir os erros de dados por conta própria, ignore os dados errados e prossiga com a análise** se o tamanho da amostragem ainda for grande o suficiente e ignorar os dados não causar viés sistemático.  
+  Exemplo: Se o conjunto de dados tiver sido traduzido de um idioma diferente e algumas das traduções não fizerem sentido, ignore os dados com tradução ruim e prossiga com a análise dos outros dados.
+
+
 ![image](https://github.com/user-attachments/assets/d4d18938-1295-46d0-86f3-aecb0c98b719)
 
