@@ -372,3 +372,6 @@ Inclui métodos como ocultação, hash ou mascaramento, que dificultam rastrear 
 
 ![image](https://github.com/user-attachments/assets/d4d18938-1295-46d0-86f3-aecb0c98b719)
 
+
+
+![image](https://github.com/user-attachments/assets/b02f720f-5e51-4860-ad9d-b07281a07a0d)
